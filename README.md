@@ -276,7 +276,7 @@ LIMIT 10
 
 ***Insight-Driven Query Building***: Learned how to frame and optimize SQL queries to answer targeted business questions — such as identifying top-paying roles, in-demand skills, and strategic upskilling opportunities — using clean, modular query logic.
 
-# 🌐 Overall Insight
+## 🌐 Overall Insight
 
 💼 Top-paying Data Analyst jobs in India are offered by companies like ***ServiceNow, Bosch, and Eagle Genomics***, with salaries exceeding ₹1.7L per annum.
 
