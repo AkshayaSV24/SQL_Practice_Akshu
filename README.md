@@ -27,18 +27,23 @@ This project answers essential questions related to Data Analyst careers, focusi
 ### **🧠 Key Questions Answered:**
 
 💰 What are the top paying Data Analyst jobs?
+
 Gain insights into roles offering the highest salaries in the industry.
 
 🛠 What skills are required for the top paying Data Analyst jobs?
+
 Discover which tools and competencies are most commonly needed for these high-paying roles.
 
 📈 What are the most in-demand skills for Data Analyst jobs?
+
 Identify the skills employers are frequently seeking in job listings.
 
 📊 What are the top skills based on average salary?
+
 Analyze which skills are associated with the highest average pay.
 
 🎯 What are the most optimal skills to learn?
+
 Find the sweet spot: skills that are both in high demand and linked to high salaries.
 
 ## 🛠️ Tools Used
