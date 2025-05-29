@@ -22,3 +22,18 @@ GROUP BY skills
 ORDER BY Avg_salary DESC
 LIMIT 10
 ;
+
+
+/*
+
+📌 Insights: Top Skills Based on Average Salary (India)
+🥇 PostgreSQL, GitLab, PySpark, MySQL, and Linux top the list with an impressive ₹16.5 LPA (Lakhs per Annum) average salary — showcasing the power of combining database management, version control, big data processing, and OS-level skills.
+
+🧠 Neo4j and GDPR follow closely, indicating demand for graph databases and data compliance expertise.
+
+⚙️ Tools like Apache Airflow (₹13.8 LPA) reflect the growing importance of workflow automation in data pipelines.
+
+🗄️ MongoDB and Databricks are valued highly, emphasizing the trend toward NoSQL databases and unified data analytics platforms.
+
+💡 Overall, mastering data engineering and cloud-native tools seems to significantly boost salary potential for Data Analysts.
+*/

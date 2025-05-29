@@ -21,3 +21,14 @@ GROUP BY skills
 ORDER BY Demand_Count DESC
 LIMIT 5
 ;
+
+/*
+📌 Insights: Most In-Demand Skills for Data Analysts
+🥇 SQL is the most in-demand skill by a wide margin, with over 92,000 job listings mentioning it — a must-have for any data analyst.
+
+📊 Excel remains highly relevant, showing that spreadsheet proficiency is still critical in the data workflow.
+
+🐍 Python holds strong in third place, emphasizing the importance of programming and automation in modern analytics.
+
+📉 Tableau and Power BI are key visualization tools, highlighting the value of data storytelling and dashboarding in business intelligence roles.
+*/
